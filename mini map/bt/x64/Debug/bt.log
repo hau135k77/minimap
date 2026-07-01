@@ -1,0 +1,4 @@
+﻿  bt.cpp
+D:\bt\bt\bt.cpp(41,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\bt\bt\bt.cpp(77,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  bt.vcxproj -> D:\bt\x64\Debug\bt.exe
